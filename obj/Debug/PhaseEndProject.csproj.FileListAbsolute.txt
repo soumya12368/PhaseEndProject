@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\PhaseEndProject\PhaseEndProject\bin\Debug\PhaseEndProject.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\PhaseEndProject\PhaseEndProject\bin\Debug\PhaseEndProject.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\PhaseEndProject\PhaseEndProject\bin\Debug\PhaseEndProject.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\PhaseEndProject\PhaseEndProject\obj\Debug\PhaseEndProject.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\PhaseEndProject\PhaseEndProject\obj\Debug\PhaseEndProject.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\PhaseEndProject\PhaseEndProject\obj\Debug\PhaseEndProject.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\PhaseEndProject\PhaseEndProject\obj\Debug\PhaseEndProject.pdb
